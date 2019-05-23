@@ -1,6 +1,6 @@
-package com.KE-RA-D;
+package com.KERAD;
 
-public class X_O_game extends Constants{
+public class X_O_game{
     public static void main(String args[]){
         Game g = new ConsoleGame();
         int ch1, ch2, choice;

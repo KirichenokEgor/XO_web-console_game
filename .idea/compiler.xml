@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="XO_webcosole_game" />
+        <module name="game-console" />
+        <module name="game-web" />
+        <module name="game-core" />
       </profile>
     </annotationProcessing>
   </component>
