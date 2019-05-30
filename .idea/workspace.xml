@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb73c2b6-6610-42c4-84c8-d8368caf55fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/XO_webconsole_game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-console/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleAI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleRealPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-core/game-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-web/src/main/java/com/KERAD/GameWebPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebAI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebRealPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-console/src/test/java/com/KERAD/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-core/src/test/java/com/KERAD/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-web/src/test/java/com/KERAD/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/KE-RA-D/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/KE-RA-D/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/KE-RA-D/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/KE-RA-D/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/KE-RA-D/X_O_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/KERAD/X_O_game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/KE-RA-D/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/KERAD/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/KERAD/AppTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,19 +29,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/KERAD/X_O_game.java">
+        <entry file="file://$PROJECT_DIR$/game-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="239">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-console/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="228">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
               <folding>
                 <element signature="method#newG#0;class#Game#0" />
                 <element signature="method#checkWin#0;class#Game#0" />
@@ -66,27 +79,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="method#menu3#0;class#WebGame#0" />
-                <element signature="method#refresh#0;class#WebGame#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="204">
+              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
               <folding>
+                <element signature="method#ConsoleGame#0;class#ConsoleGame#0" />
                 <element signature="method#menu3#0;class#ConsoleGame#0" />
                 <element signature="method#refresh#0;class#ConsoleGame#0" />
+                <element signature="method#step#0;class#ConsoleGame#0" />
               </folding>
             </state>
           </provider>
@@ -95,35 +97,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            <state relative-caret-position="-5">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-core/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/KERAD/X_O_game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game-console/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -158,13 +142,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/KERAD/WebGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/KERAD/X_O_game.java" />
         <option value="$PROJECT_DIR$/game-web/src/main/java/com/KERAD/GameWebPlatform.java" />
-        <option value="$PROJECT_DIR$/game-web/pom.xml" />
         <option value="$PROJECT_DIR$/game-console/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/game-core/pom.xml" />
-        <option value="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java" />
         <option value="$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebGame.java" />
         <option value="$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Game.java" />
+        <option value="$PROJECT_DIR$/game-core/src/test/java/com/KERAD/AppTest.java" />
+        <option value="$PROJECT_DIR$/game-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java" />
       </list>
     </option>
   </component>
@@ -191,8 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -356,6 +339,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,7 +348,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RPNP_lab1" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -382,6 +367,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.X_O_game">
+    <configuration name="X_O_game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KERAD.X_O_game" />
+      <module name="XO_webconsole_game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KERAD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameWebPlatform" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="game-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KERAD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.KERAD.GameWebPlatform" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.X_O_game" />
+        <item itemvalue="Spring Boot.GameWebPlatform" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -396,30 +415,29 @@
       <workItem from="1557332952398" duration="3301000" />
       <workItem from="1557473429876" duration="1519000" />
       <workItem from="1558077392764" duration="3305000" />
-      <workItem from="1558633806963" duration="2422000" />
+      <workItem from="1558633806963" duration="4286000" />
+      <workItem from="1558974259271" duration="1509000" />
+      <workItem from="1559228746518" duration="3847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11513000" />
+    <option name="totallyTimeSpent" value="18733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20877458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2990196" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2990196" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,7 +447,10 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32843137" />
+      <window_info anchor="right" id="Module Dependencies" visible="true" weight="0.3290469" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,6 +460,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,13 +480,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/KERAD/Constants.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/KERAD/App.java" />
-    <entry file="file://$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebAI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -488,21 +503,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-web/src/main/java/com/KERAD/GameWebPlatform.java">
+    <entry file="file://$PROJECT_DIR$/game-core/src/test/java/com/KERAD/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
+            <element signature="method#menu3#0;class#WebGame#0" />
+            <element signature="method#refresh#0;class#WebGame#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleAI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding>
             <element signature="method#ConsoleAI#0;class#ConsoleAI#0" />
             <element signature="method#putSymbol#0;class#ConsoleAI#0" />
@@ -512,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleRealPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="method#ConsoleRealPlayer#0;class#ConsoleRealPlayer#0" />
             <element signature="method#wait_for_input#0;class#ConsoleRealPlayer#0" />
@@ -522,72 +544,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/KERAD/X_O_game.java">
+    <entry file="file://$PROJECT_DIR$/game-web/src/main/java/com/KERAD/GameWebPlatform.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-console/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        <state relative-caret-position="-5">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/KERAD/X_O_game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-console/src/test/java/com/KERAD/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-console/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-console/src/main/java/com/KERAD/ConsoleGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="204">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
           <folding>
+            <element signature="method#ConsoleGame#0;class#ConsoleGame#0" />
             <element signature="method#menu3#0;class#ConsoleGame#0" />
             <element signature="method#refresh#0;class#ConsoleGame#0" />
+            <element signature="method#step#0;class#ConsoleGame#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game-core/src/main/java/com/KERAD/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="228">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
           <folding>
             <element signature="method#newG#0;class#Game#0" />
             <element signature="method#checkWin#0;class#Game#0" />
             <element signature="method#check#0;class#Game#0" />
             <element signature="method#step#0;class#Game#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game-web/src/main/java/com/KERAD/WebGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="method#menu3#0;class#WebGame#0" />
-            <element signature="method#refresh#0;class#WebGame#0" />
           </folding>
         </state>
       </provider>

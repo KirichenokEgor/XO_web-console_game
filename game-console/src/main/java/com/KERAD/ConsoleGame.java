@@ -44,4 +44,10 @@ class ConsoleGame extends Game {
             System.out.println(" -------------");
         }
     }
+
+    @Override
+    public int step(Player pl) {
+        System.out.println("Ход игрока " + pl.getName());
+        return super.step(pl);
+    }
 }
